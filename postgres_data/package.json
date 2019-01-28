@@ -1,0 +1,5 @@
+{
+  "name": "postgres_data",
+  "private": true,
+  "dependencies": {}
+}

@@ -1,0 +1,4 @@
+version: "3.5"
+services:
+  db:
+    image: postgres_image_with_data
